@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "A rom rom..."
+theme = "hugo-lithium-theme"
