@@ -1,4 +1,4 @@
 baseURL = "https://www.parthrabari.in/"
 languageCode = "en-us"
 title = "A rom rom..."
-theme = "slim"
+theme = "hugo-sustain"
