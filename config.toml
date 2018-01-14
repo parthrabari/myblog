@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.parthrabari.in"
 languageCode = "en-us"
 title = "A rom rom..."
 theme = "hugo-lithium-theme"
