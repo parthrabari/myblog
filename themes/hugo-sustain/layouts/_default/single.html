@@ -25,7 +25,8 @@
         <div class="panel panel-default">
           <div class="panel-body">
             <div class="blogpost">
-              {{ .Content }}
+              <!-- {{ .Content }} -->
+              {{ replace .Content "<!--adsense-->" (partial "ads.html" .) | safeHTML }}
               <hr>
               <div class="related-posts">
                 <h5>Related Posts</h5>
